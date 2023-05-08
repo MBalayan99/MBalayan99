@@ -1,7 +1,7 @@
 
 Hi, I'm Mher 👋 Student of Ecole 42 in Yerevan
 
-🌱 Interests: DevOps, Linux 
+🌱 Interests: DevOps, Linux,Network 
 🔎 Improving: language skills
 
 Skills
