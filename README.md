@@ -6,7 +6,7 @@ Hi, I'm Mher 👋 Student of Ecole 42 in Yerevan
 
 Skills
 
-С,C# knowledge of basic algorithms and data structures, 
+С,C# knowledge of basic  algorithms and data structures, 
 using standard libraries 🧑‍🎓
 Working with Git 👌 
 Understanding of virtualization, containers. 
