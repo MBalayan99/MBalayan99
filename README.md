@@ -1,5 +1,5 @@
 
-Hi, I'm Mher 👋 Student of Ecole 42 in Yerevan
+Hi, I'm Mher 👋 Student of Ecole 42 in Yerevan!
 
 🌱 Interests: DevOps, Linux,Network 
 🔎 Improving: language skills
